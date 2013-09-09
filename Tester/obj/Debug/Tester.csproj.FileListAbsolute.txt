@@ -1,0 +1,6 @@
+c:\users\omcbride.ixite\documents\visual studio 2012\Projects\Tester\Tester\bin\Debug\Tester.exe.config
+c:\users\omcbride.ixite\documents\visual studio 2012\Projects\Tester\Tester\bin\Debug\Tester.exe
+c:\users\omcbride.ixite\documents\visual studio 2012\Projects\Tester\Tester\bin\Debug\Tester.pdb
+c:\users\omcbride.ixite\documents\visual studio 2012\Projects\Tester\Tester\obj\Debug\Tester.csprojResolveAssemblyReference.cache
+c:\users\omcbride.ixite\documents\visual studio 2012\Projects\Tester\Tester\obj\Debug\Tester.exe
+c:\users\omcbride.ixite\documents\visual studio 2012\Projects\Tester\Tester\obj\Debug\Tester.pdb
