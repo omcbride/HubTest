@@ -11,18 +11,9 @@ namespace Tester
     {
         static void Main(string[] args)
         {
-            var ips = "1.2.3.4, 5.6.7.8, 9.0.9.8";
-            Console.Write(GetIp(ips));
+            var ip = IpManager.GetIp("1.2.3.4, 5.6.7.8, 9.0.9.8");
+            Console.Write(ip);
             Console.ReadLine();
-        }
-
-         private static string GetIp(string ips)
-        {
-            var ip = string.Empty;
-            
-                   var ipArray = ips.Split(',');
-                   ip = ipArray.GetValue(0).ToString().Trim();
-            return ip;
         }
     }
 }
