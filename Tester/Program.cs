@@ -11,7 +11,7 @@ namespace Tester
     {
         static void Main(string[] args)
         {
-            var ips = "1.2.3.4, 5.6.7.8, 2.4.6.8";
+            var ips = "1.2.3.4, 5.6.7.8, 9.0.9.8";
             Console.Write(GetIp(ips));
             Console.ReadLine();
         }
