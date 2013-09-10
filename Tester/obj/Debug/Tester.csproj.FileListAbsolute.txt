@@ -4,3 +4,9 @@ c:\users\omcbride.ixite\documents\visual studio 2012\Projects\Tester\Tester\bin\
 c:\users\omcbride.ixite\documents\visual studio 2012\Projects\Tester\Tester\obj\Debug\Tester.csprojResolveAssemblyReference.cache
 c:\users\omcbride.ixite\documents\visual studio 2012\Projects\Tester\Tester\obj\Debug\Tester.exe
 c:\users\omcbride.ixite\documents\visual studio 2012\Projects\Tester\Tester\obj\Debug\Tester.pdb
+C:\Projects\workarea_git\Tester\HubTest\Tester\bin\Debug\Tester.exe.config
+C:\Projects\workarea_git\Tester\HubTest\Tester\obj\Debug\Tester.exe
+C:\Projects\workarea_git\Tester\HubTest\Tester\obj\Debug\Tester.pdb
+C:\Projects\workarea_git\Tester\HubTest\Tester\bin\Debug\Tester.exe
+C:\Projects\workarea_git\Tester\HubTest\Tester\bin\Debug\Tester.pdb
+C:\Projects\workarea_git\Tester\HubTest\Tester\obj\Debug\Tester.csprojResolveAssemblyReference.cache
