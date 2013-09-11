@@ -17,16 +17,20 @@ namespace Tester
             return ip;
         }
 
-        public static string RemoveIp(string ips)
+        public static string RemoveIp(string ips, int location)
         {
-            var ip = string.Empty;
+            var ipList = string.Empty;
 
             var ipArray = ips.Split(',');
-            for (var i = 0; i < ips.Count() - 1; i++)
+            var count = ipArray.Count();
+            for (var i = 0; i < count; i++)
             {
-                ip += i;
+                if (i == location) continue;
+                ipList += ipArray[i];
+                if (i < count - 1)
+                    ipList += ",";
             }
-            return ip;
+            return ipList;
         }
     }
 }
