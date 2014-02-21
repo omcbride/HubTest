@@ -32,14 +32,5 @@ namespace Tester
             }
             return ipList;
         }
-
-        public static string[] AddIp(string[] ipArray, string ip)
-        {
-            if (string.IsNullOrEmpty(ip))
-                return ipArray;
-            ipArray[ipArray.Count()] = ip;
-            return ipArray;
-
-        }
     }
 }
