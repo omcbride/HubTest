@@ -10,3 +10,9 @@ C:\Projects\workarea_git\Tester\HubTest\Tester\obj\Debug\Tester.pdb
 C:\Projects\workarea_git\Tester\HubTest\Tester\bin\Debug\Tester.exe
 C:\Projects\workarea_git\Tester\HubTest\Tester\bin\Debug\Tester.pdb
 C:\Projects\workarea_git\Tester\HubTest\Tester\obj\Debug\Tester.csprojResolveAssemblyReference.cache
+C:\Projects\workarea_git\HubTest\Tester\bin\Debug\Tester.exe.config
+C:\Projects\workarea_git\HubTest\Tester\obj\Debug\Tester.exe
+C:\Projects\workarea_git\HubTest\Tester\obj\Debug\Tester.pdb
+C:\Projects\workarea_git\HubTest\Tester\bin\Debug\Tester.exe
+C:\Projects\workarea_git\HubTest\Tester\bin\Debug\Tester.pdb
+C:\Projects\workarea_git\HubTest\Tester\obj\Debug\Tester.csprojResolveAssemblyReference.cache
